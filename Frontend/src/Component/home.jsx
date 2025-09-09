@@ -96,6 +96,12 @@ function home() {
             <div>F O R &nbsp; A L L</div>
           </div>
         </div>
+
+        {/* manga */}
+        <div></div>
+        {/* Comics Books */}
+        <div></div>
+        {/* Novels & other Books */}
       </div>
     </div>
   );

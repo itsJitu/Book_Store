@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 import { TbCircleDashedLetterB } from "react-icons/tb";
-import Image from "../img/StoreBooks.jpg";
+import Image from "../img/NightBook.jpg";
 import { useNavigate } from "react-router-dom";
 
 function SignIn() {
@@ -32,9 +32,9 @@ function SignIn() {
   return (
     <div
       style={{
-        backgroundColor: "#efefef",
+        backgroundColor: "#700502ff",
         minHeight: "100vh",
-        padding: "12px 12px",
+        // padding: "12px 12px",
       }}
     >
       <div style={{ display: "flex", width: "100%", gap: "20px" }}>
@@ -136,7 +136,7 @@ function SignIn() {
               type="submit"
               style={{
                 padding: "12px",
-                backgroundColor: "#d42346",
+                backgroundColor: "#000",
                 color: "white",
                 border: "none",
                 borderRadius: "6px",
