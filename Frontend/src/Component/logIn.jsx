@@ -237,7 +237,7 @@ function logIn() {
                 alignItems: "center",
               }}
             >
-              <a href="http://localhost:8080/auth/google/callback">
+              <a>
                 <FcGoogle style={{ color: "red", fontSize: "24px" }} />
               </a>
 
